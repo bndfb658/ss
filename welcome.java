@@ -1,7 +1,7 @@
-public class wel
+public class welcome
 {
-	public static void main(String[]args)
+	public static void main(String[] args)
 	{
-		system.out.println("welcome to java");
+		System.out.println("welcome to java spt");
 	}
 }
